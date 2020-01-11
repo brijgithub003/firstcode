@@ -1,0 +1,187 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	background-color: #ccc;
+}
+.header-page{
+	background-color: #1499ca;
+}
+.header-page ul{
+	color: white;
+	text-align: right;
+	padding-top: 10px;
+	float: right;
+}
+.header-page ul li{
+	    display: inline;
+    margin-left: 15px;
+    float: left;
+}
+a{
+	text-decoration: none;
+	color: #007bc9;
+}
+.datalake a{
+        padding: 10px 30px;
+            cursor: auto;
+}
+.dropdown{
+    background-color: #2b8dcc;
+    min-height: 27px;
+}
+.dropdown h2 {
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin-left: 18px;
+    margin-bottom: 0px;
+}
+.dropdown ul li{
+        display: inline;
+    margin-right: 12px;
+    float: left;
+}
+.dropdown ul {
+       width: 1653px;
+    margin: auto 250px;
+    min-height: 36px;
+    background-color: #fff;
+        padding-top: 12px;
+}
+.dropdown ul li a{
+        margin-left: 44px;
+}
+.container{
+    border: 1px solid #eae1e1;
+    width: 1900px;
+    background-color: #f3f3f3;
+    height: 900px;
+}
+nav {
+    border: 1px solid #a5a3a3;
+    width: 248px;
+    height: 600px;
+    background-color: #fff;
+    float: left;
+}
+nav ul li a{
+    text-decoration: none;
+      color: #007BC9;
+          cursor: auto;
+}
+input[type="checkbox"] {
+    width: 25px;
+    height: 17px;
+}
+nav ul{
+    padding-top: 15px;
+    list-style-type:none
+}
+.nav-footer {
+    border: 1px solid #eae1e1;
+    background-color: #eaeaea;
+    margin-top: 343px;
+    padding-bottom: 13px;
+}
+nav p {
+    font-size: 13px;
+    color: #383636;
+    line-height: 16px;
+}
+.dropdown ul li:last-child {
+    margin: 0;
+}
+hr {
+    width: 227px;
+}
+.user{
+       border: 1px solid silver;
+    width: 1384px;
+    min-height: 434px;
+    margin: 30px 35px;
+    background-color: #fff;
+}
+.user h3{
+    width: 1355px;
+    height: 31px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #63699e;
+    padding: 5px 15px;
+}
+table, th, tr, td{
+    border:1px solid silver;
+}
+th {
+    color: #2b8dcc;
+    font-size: 17px;
+    padding: 10px;
+}
+td {
+    padding: 1px;
+}
+tr:nth-child(even) {
+    background-color: #ddd;
+}
+.blank {
+   /* height: 30px;
+    background-color: #ddd;*/S
+}
+.body-wrapper {
+    
+    width: 1648px;
+    height: 800px;
+    background-color: #f3f3f3;
+    margin: 0px 250px;
+}
+.body-wrapper h2{
+     padding: 30px;
+    color: black;
+    font-size: 27px;
+}
+.username-wrapper{
+     border: 1px solid silver;
+    width: 1124px;
+    min-height: 251px; 
+    margin: 30px 35px;
+    background-color: #fff;
+}
+.username-wrapper h2 {
+    font-size: 20px;
+}
+input[type="text"] {
+    width: 270px;
+    height: 25px;
+    margin-left: 30px;
+}
+button {
+        margin: 15px 30px;
+    background-color: #2b8dcc;
+    color: #fff;
+    border: none;
+    width: 135px;
+    height: 35px;
+    font-size: 15px;
+}
+.dropdown input[type="text"]
+{
+        width: 270px;
+    height: 25px;
+}
+.dropdown button {
+    width: 90px;
+    height: 31px;
+    background-color: #b39a2a;
+        color: #000;
+    margin: 0; 
+}
+.mix {
+    width: 410px;
+    margin-left: 950px;
+}
+.user tr td input{
+    background-color: #fff;
+    color:blue;
+}
+

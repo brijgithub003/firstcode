@@ -1,0 +1,8 @@
+body {
+    border: 1px solid black;
+    border-collapse: none;
+    color: #9e0f0f;
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+}
